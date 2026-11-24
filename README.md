@@ -42,7 +42,6 @@
 
 ## 1. Introdução
 
-
 ### 1.1. Descrição Geral do Software
 
 O **MOBCASA** é uma plataforma web que facilita a **busca e a negociação de imóveis à venda**. Voltada à divulgação de imóveis, a plataforma também apoia as etapas iniciais da negociação entre quem anuncia e quem deseja comprar.
