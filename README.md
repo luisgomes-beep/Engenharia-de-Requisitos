@@ -14,7 +14,7 @@
   Disciplina de Gerência de Configuração · Docente: Walter Viana    
 </p>
 
-<p align="center"><img src="imagens/divisor.png" alt="" width="70%"></p>
+<p align="center"><img src="imagens/divisor.png" alt="" width="70%"></p> 
 
 ## 👥 Equipe
 
