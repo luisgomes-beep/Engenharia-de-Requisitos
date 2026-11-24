@@ -20,7 +20,7 @@
 ## 👥 Equipe
 
 <p align="center">
-  <b>Letícia Abreu</b> &nbsp;·&nbsp; <b>Luís Gustavo</b> &nbsp;·&nbsp; <b>Paolla Gabriele</b>
+  <b>Letícia Abreu de Araújo Marques</b> &nbsp;·&nbsp; <b>Luís Gustavo da Silva Gomes</b> &nbsp;·&nbsp; <b>Paolla Gabriele dos Santos Costa</b>
 </p>
 
 <p align="center"><img src="imagens/divisor.png" alt="" width="70%"></p>
